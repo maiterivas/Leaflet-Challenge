@@ -3,7 +3,7 @@
 # Unit 15 Homework: Visualizing Data with Leaflet
 
 # My Leaflet Earquake Map
-<img src="Leaflet-Part-1/Resources/map_screenshot_maite" alt="maite's map">
+<img src="Leaflet-Part-1/Resources/map_screenshot_maite.png" alt="maite's map">
 
 ## Background
 
