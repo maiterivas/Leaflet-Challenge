@@ -2,7 +2,7 @@
 
 # Unit 15 Homework: Visualizing Data with Leaflet
 
-# My Leaflet Earquake Map
+# My Leaflet Earthquake Map
 <img src="Leaflet-Part-1/Resources/map_screenshot_maite.png" alt="maite's map">
 
 ## Background
