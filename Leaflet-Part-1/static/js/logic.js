@@ -55,6 +55,7 @@ function buildMap(data) {
             "</h2><hr><p>" + "<h3> Date: " + new Date(feature.properties.time) + "</p>" + "<br><h3> Magnitude: " + feature.properties.mag + "</h3>");
     };
 
+    //add all marker info using oneachfeature created and change size and color
     L.geoJSON(data, {
         onEachFeature: onEachFeature,
         //pointtolayer creates circle markers
@@ -72,6 +73,7 @@ function buildMap(data) {
 
 };
 
+//define ranges of magnitude depth
 var depths = [1.0, 2.0, 4.0, 5.0, 8.0];
 
 //data markers should reflect the magnitude of the earthquake by their size (radius): make function
