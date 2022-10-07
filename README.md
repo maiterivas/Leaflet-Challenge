@@ -1,6 +1,6 @@
 # Leaflet-Challenge
 
-# Unit 15 Homework: Visualizing Data with Leaflet
+# Unit 15 Homework: Visualizing Data with Leaflet 
 
 # My Leaflet Earthquake Map
 <img src="Leaflet-Part-1/Resources/map_screenshot_maite.png" alt="maite's map">
