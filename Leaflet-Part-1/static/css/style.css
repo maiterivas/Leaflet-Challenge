@@ -8,3 +8,13 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  background: white;
+  border-radius: 3px;
+  padding: 10px 10px;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+}
+
