@@ -2,7 +2,7 @@
 
 # Unit 15 Homework: Visualizing Data with Leaflet
 
-# My Leaflet Earquake Map
+# My Leaflet Earthquake Map
 <img src="Leaflet-Part-1/Resources/map_screenshot_maite.png" alt="maite's map">
 
 ## Background
@@ -33,7 +33,6 @@ The instructions for this activity are broken into two parts:
 
 ### Part 1: Create the Earthquake Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
